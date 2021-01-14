@@ -1,0 +1,8 @@
+ui.bCALbasica.clicked.connect(lambda: ui.stackedWidget.setCurrentWidget(ui.CBasica))
+    ui.bCALbasica.clicked.connect(lambda: ui.stackedWidget.setCurrentWidget(ui.PUtildades))
+    ui.bVolverBAS.clicked.connect(lambda: ui.stackedWidget.setCurrentWidget(ui.PPrincipal))
+    ui.bVolverUTI.clicked.connect(lambda: ui.stackedWidget.setCurrentWidget(ui.PPrincipal))
+    ui.bUIMC.clicked.connect(lambda: ui.stackedWidget.setCurrentWidget(ui.PIMC))
+    ui.bUR3.clicked.connect(lambda: ui.stackedWidget.setCurrentWidget(ui.PR3))
+    ui.bVolverIMC.clicked.connect(lambda: ui.stackedWidget.setCurrentWidget(ui.PPrincipal))
+    ui.bVolverR3.clicked.connect(lambda: ui.stackedWidget.setCurrentWidget(ui.PPrincipal))

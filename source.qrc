@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="logoimg">
+    <file>LogoDv-removebg-preview.png</file>
+  </qresource>
+</RCC>
